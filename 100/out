@@ -1,0 +1,171 @@
+605293 606510 341
+956739 956006 352
+826611 825983 313
+756134 756776 362
+478642 479101 338
+815892 815933 269
+719220 719135 274
+929349 929040 339
+948351 948681 326
+491808 491202 320
+504516 507852 382
+604712 604712 67
+436809 436182 325
+630804 630542 310
+975948 975688 334
+945718 945752 202
+747700 747747 243
+652581 653137 336
+824003 823974 238
+655077 655161 186
+567537 567893 346
+851101 851038 238
+524621 524569 302
+549210 549073 240
+782205 782263 287
+422252 422691 325
+285142 285524 376
+478472 479285 338
+485461 484957 320
+748121 748121 256
+823874 824088 238
+359661 358904 317
+388654 388444 299
+981428 981459 184
+830977 832487 419
+654572 654612 248
+240125 241624 368
+532347 536933 377
+545105 545167 209
+850670 851113 357
+978562 976960 383
+319662 322868 371
+560495 559981 359
+831101 831011 251
+784445 782843 331
+859271 859331 295
+998394 998498 277
+975465 975228 228
+687538 680880 398
+786313 786051 269
+780568 780732 300
+363174 361163 361
+261481 261858 288
+908012 909802 370
+984442 984350 246
+931890 931544 277
+788836 791387 406
+919454 919499 202
+575642 575716 297
+915504 916839 339
+285788 285880 252
+919365 918704 339
+827554 827930 313
+850429 850334 313
+737959 737960 150
+809210 810518 406
+974713 974143 321
+456486 455019 338
+727712 727631 287
+743706 745566 318
+465147 463724 338
+945152 944673 352
+776248 775948 331
+541191 542743 364
+256518 255672 332
+947523 950576 383
+423648 421688 356
+574485 575669 328
+588113 587943 266
+748123 748033 318
+930036 929896 264
+982165 982843 383
+806280 806281 70
+379341 379868 361
+155281 158691 383
+854261 855194 357
+827665 827456 419
+806029 805322 375
+276791 280194 389
+655238 655329 292
+358577 358839 348
+842747 844169 388
+612687 612358 297
+810273 809602 344
+431700 431055 312
+281758 283365 358
+984263 984008 352
+884741 885879 370
+724852 724070 362
+869222 869573 388
+         2042911 function calls (971480 primitive calls) in 1.795 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:100(acquire)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1022(_find_and_load)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:125(release)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:165(__init__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:169(__enter__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:173(__exit__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:179(_get_module_lock)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:198(cb)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:233(_call_with_frames_removed)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:244(_verbose_message)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:254(_requires_builtin_wrapper)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:357(__init__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:404(parent)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:412(has_location)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:421(spec_from_loader)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:492(_init_module_attrs)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:564(module_from_spec)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:664(_load_unlocked)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:71(__init__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:746(find_spec)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:770(create_module)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:778(exec_module)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:795(is_package)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:893(__enter__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:897(__exit__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:921(_find_spec)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:987(_find_and_load_unlocked)
+      600    0.000    0.000    0.001    0.000 cp1252.py:18(encode)
+        2    0.000    0.000    0.000    0.000 cp1252.py:22(decode)
+        4    0.000    0.000    0.000    0.000 functools.py:35(update_wrapper)
+        4    0.000    0.000    0.000    0.000 functools.py:479(lru_cache)
+        4    0.000    0.000    0.000    0.000 functools.py:518(decorating_function)
+        1    0.002    0.002    1.795    1.795 main.py:1(<module>)
+90075/176    0.197    0.000    1.791    0.010 main.py:16(calc_range)
+   381533    0.213    0.000    0.262    0.000 main.py:3(ctz)
+       31    0.000    0.000    0.688    0.022 main.py:31(calc_block)
+1062288/80756    1.298    0.000    1.560    0.000 main.py:7(collatz)
+        2    0.000    0.000    0.000    0.000 {built-in method _codecs.charmap_decode}
+      600    0.000    0.000    0.000    0.000 {built-in method _codecs.charmap_encode}
+        6    0.000    0.000    0.000    0.000 {built-in method _imp.acquire_lock}
+        2    0.000    0.000    0.000    0.000 {built-in method _imp.create_builtin}
+        2    0.000    0.000    0.000    0.000 {built-in method _imp.exec_builtin}
+        2    0.000    0.000    0.000    0.000 {built-in method _imp.is_builtin}
+        6    0.000    0.000    0.000    0.000 {built-in method _imp.release_lock}
+        4    0.000    0.000    0.000    0.000 {built-in method _thread.allocate_lock}
+        4    0.000    0.000    0.000    0.000 {built-in method _thread.get_ident}
+        1    0.000    0.000    1.795    1.795 {built-in method builtins.exec}
+       36    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        8    0.000    0.000    0.000    0.000 {built-in method builtins.hasattr}
+        4    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+    80779    0.024    0.000    0.024    0.000 {built-in method builtins.max}
+      131    0.000    0.000    0.000    0.000 {built-in method builtins.min}
+      100    0.001    0.000    0.002    0.000 {built-in method builtins.print}
+       20    0.000    0.000    0.000    0.000 {built-in method builtins.setattr}
+    44953    0.010    0.000    0.010    0.000 {built-in method math.ceil}
+        1    0.000    0.000    0.000    0.000 {built-in method math.sqrt}
+        4    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.lock' objects}
+   381533    0.050    0.000    0.050    0.000 {method 'bit_length' of 'int' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        4    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        2    0.000    0.000    0.000    0.000 {method 'pop' of 'dict' objects}
+        4    0.000    0.000    0.000    0.000 {method 'rpartition' of 'str' objects}
+      100    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+        4    0.000    0.000    0.000    0.000 {method 'update' of 'dict' objects}
+
+
